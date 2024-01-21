@@ -7,5 +7,5 @@
 - Blah blah blah disclaimer this disclaimer that. 
 - Dont be an idiot basically and all the rest.
 - I take no responsibility for your actions and without warranty etc etc.
-- This is a personal project just opensourced
+- This is a personal project just opensourced.
 - No relations to makers of helltaker or mitsies.
