@@ -10,7 +10,7 @@
 - This is a personal project just opensourced.
 - No relations to makers of helltaker or mitsies.
 
-## Roadmap
+## roadmap
 
 - Planned workflow: lucifer-core -> justice-mediator -> cerberus-guard -> modeus-modal-ui -> loremaster-api -> pandemonica-database
 - Lucifer's role: running the "business" and executing the "deeds" as she allows.
