@@ -22,4 +22,4 @@
 
 ## hack the planet
 
-[![Watch the video](https://media1.tenor.com/m/LlBMbdGgcmwAAAAC/lucifer-helltaker.gif)](https://www.youtube.com/watch?v=qDrzzbBFHvI)  
+[![Watch the video](https://media1.tenor.com/m/LlBMbdGgcmwAAAAC/lucifer-helltaker.gif)](https://www.youtube.com/watch?v=ncRsxGjKXEI)
